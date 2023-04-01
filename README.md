@@ -1,6 +1,6 @@
 
 # Work Report
-
+My name is BingHongNi, and this is my final project for my Data Structures and Analysis course at Pasadena City College, where I will be creating and simulating a SQL using C++.
 ## Name: <ins> </ins>
 
 
